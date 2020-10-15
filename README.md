@@ -1,2 +1,2 @@
-# AnselmoLupague.github.io
+# anselmolupague.github.io
 My Personal Site
